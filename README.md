@@ -7,8 +7,8 @@ A subgoal of this Interactive Qualifying Project (A partial fulfillment of a Bac
 For an extensive guide of creating and installing these devices, please refer to the instruction manual on our website: xxxxxxxxxxx.
 
 Developed by Worcester Polytechnic Institute Students: 
-Stephen Fanning (https://www.linkedin.com/in/stephen-fanning/) &
-Emmanuel Vargas (http://linkedin.com/in/esvargas/)
+[Stephen Fanning](https://www.linkedin.com/in/stephen-fanning/) &
+[Emmanuel Vargas](http://linkedin.com/in/esvargas/)
 
 # Requirements 
 
