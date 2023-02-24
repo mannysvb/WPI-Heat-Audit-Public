@@ -35,4 +35,16 @@ Please note that this service key is sensitive information and should be kept pr
 6. Select the "Owner" role and click Done
 <img width="599" alt="Screenshot 2023-02-23 at 11 18 39 PM" src="https://user-images.githubusercontent.com/124530176/220903978-4996608d-aa69-4f55-bb97-1556499f6c30.png">
 
-7. 
+7. Select the Service Account
+<img width="1439" alt="Screenshot 2023-02-24 at 2 47 30 PM" src="https://user-images.githubusercontent.com/124530176/221087331-a4f45b9f-0ffd-4e60-be65-29c75506bc5f.png">
+
+8. Navigate to the Keys tab, and Create a New Key
+<img width="1437" alt="Screenshot 2023-02-24 at 2 49 14 PM" src="https://user-images.githubusercontent.com/124530176/221087561-d0df916e-f568-4f17-8e17-2e984a9dc08a.png">
+
+9. Create a "JSON" Private Key
+<img width="1439" alt="Screenshot 2023-02-24 at 2 51 27 PM" src="https://user-images.githubusercontent.com/124530176/221088279-bd6b390f-c341-4ada-b9a6-8c6ecbb5eb4d.png">
+
+10. This key will be saved to your downloads folder
+<img width="1440" alt="Screenshot 2023-02-24 at 2 57 04 PM" src="https://user-images.githubusercontent.com/124530176/221088686-8e0670ff-a2e6-4927-bb2d-7edcdd031d0f.png">
+
+
