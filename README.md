@@ -49,5 +49,5 @@ Please note that this service key is sensitive information and should be kept pr
 
 # Converting Your Private Key
 
-*This one time process must be completed on a Windows computer, please see the following video for step by step instructions.*
+*This one time process must be completed on a Windows computer, please see the following video for step by step instructions.*(https://www.youtube.com/watch?v=2WAjVtjPpWE)
 
