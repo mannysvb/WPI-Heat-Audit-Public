@@ -51,6 +51,6 @@ Please note that this service key is sensitive information and should be kept pr
 
 *This one time process must be completed on a Windows computer, please see the following video for step by step instructions.*
 
-[![Watch the video](<blockquote class="imgur-embed-pub" lang="en" data-id="a/gXOyY8a" data-context="false" ><a href="//imgur.com/a/gXOyY8a"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)](https://www.youtube.com/watch?v=2WAjVtjPpWE)
+[![Watch the video](<iframe width="966" height="543" src="https://www.youtube.com/embed/2WAjVtjPpWE" title="Key Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
 
 
