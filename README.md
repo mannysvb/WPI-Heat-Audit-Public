@@ -53,4 +53,6 @@ Please note that this service key is sensitive information and should be kept pr
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/2WAjVtjPpWE/0.jpg)](http://www.youtube.com/watch?v=2WAjVtjPpWE "Key Tutorial")
 
+Make sure to drop the key.json file into the "Public Heat Audit Code" folder
+
 
