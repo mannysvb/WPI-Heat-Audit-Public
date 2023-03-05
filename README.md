@@ -89,7 +89,7 @@ Cells A2:A runs on a script that adds the hour every hour
 
 Cells B2:H2 uses the =IMPORTRANGE formula by inputting the link and defined range.
 
-  *Please see the folder Google Apps Script for the code to copy on your own Biodiversity and Temperature Database Google Sheet. It is worth noting that this formula only consistently works when using defined ranges as shown in the following picture*
+  *It is worth noting that this formula only consistently works when using defined ranges as shown in the following picture. Please see the folder Google Apps Script for the code to copy on your own Biodiversity and Temperature Database Google Sheet.*
   
 <img width="1439" alt="Screenshot 2023-03-05 at 10 29 32 AM" src="https://user-images.githubusercontent.com/124530176/222984698-942b93d6-3d12-407f-b259-38a7be4db1a4.png">
 
