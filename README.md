@@ -61,9 +61,9 @@ Make sure to drop the key.json file into the "Public Heat Audit Code" folder
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NXjj1oKcEbQ/0.jpg)](http://www.youtube.com/watch?v=NXjj1oKcEbQ "Heat Audit Tutorial")
 
 # Databases
-*There are two databases, the first collects all recordings from the seven sensors, and the second pulls filtered data points to create an organized chart.
+*There are two databases, the first collects all recordings from the seven sensors, and the second pulls filtered data points to create an organized chart.*
 
-<u>The following is a picture of the first database: Raw Heat Sensor Temperature Data</u>
+<u> The following is a picture of the first database: Raw Heat Sensor Temperature Data </u>
 
 <img width="1440" alt="Screenshot 2023-03-05 at 10 23 18 AM" src="https://user-images.githubusercontent.com/124530176/222983928-506da472-32dc-480f-8454-1151f85dcaad.png">
 
@@ -79,7 +79,7 @@ Column J & K runs on a script that removes duplicates
 
 *Please see the folder Google Apps Script for the code to copy on your own Raw Heat Sensor Temperatre Data Google Sheet*
 
-<u>The following is a picture of the second database: Biodiversity and Temperature Database</u>
+<u> The following is a picture of the second database: Biodiversity and Temperature Database </u>
 
 <img width="1437" alt="Screenshot 2023-03-05 at 10 25 42 AM" src="https://user-images.githubusercontent.com/124530176/222984041-6b013e83-dca4-4ed5-87fe-b170e1c458f3.png">
 
