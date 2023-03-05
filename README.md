@@ -60,4 +60,29 @@ Make sure to drop the key.json file into the "Public Heat Audit Code" folder
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NXjj1oKcEbQ/0.jpg)](http://www.youtube.com/watch?v=NXjj1oKcEbQ "Heat Audit Tutorial")
 
+# Databases
+*There are two databases, the first collects all recordings from the seven sensors, and the second pulls filtered data points to create an organized chart.
+
+The following is a picture of the first database: Raw Heat Sensor Temperature Data
+
+<img width="1440" alt="Screenshot 2023-03-05 at 10 23 18 AM" src="https://user-images.githubusercontent.com/124530176/222983928-506da472-32dc-480f-8454-1151f85dcaad.png">
+
+Cell A1 & A2 are user inputed headers
+Column D runs on script that formats Column A when any edits are made
+Cell G1 is a user inputed header
+Cell G2 filters Column D with the following command: =FILTER(A:B, REGEXMATCH(D:D,":00:|:01:|:02:|:03:|:04:"))
+Column J & K runs on a script that removes duplicates
+
+*Please see the folder Google Apps Script for the code to copy on your own Raw Heat Sensor Temperatre Data Google Sheet
+
+The following is a picture of the second database: Biodiversity and Temperature Database
+
+<img width="1437" alt="Screenshot 2023-03-05 at 10 25 42 AM" src="https://user-images.githubusercontent.com/124530176/222984041-6b013e83-dca4-4ed5-87fe-b170e1c458f3.png">
+
+Cells A1:H1 are user inputed headers
+Cells A2:A runs on a script that adds the hour every hour
+Cells B2:H2 uses the =IMPORTRANGE formula by inputting the link and defined range.
+  *It is worth noting that this formula only consistently works when using defined ranges as shown in the following picture*
+
+<img width="1439" alt="Screenshot 2023-03-05 at 10 29 32 AM" src="https://user-images.githubusercontent.com/124530176/222984342-81b18769-99d0-48a0-b915-a5345e94722d.png">
 
