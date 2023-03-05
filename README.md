@@ -73,15 +73,18 @@ Cell G1 is a user inputed header
 Cell G2 filters Column D with the following command: =FILTER(A:B, REGEXMATCH(D:D,":00:|:01:|:02:|:03:|:04:"))
 Column J & K runs on a script that removes duplicates
 
-*Please see the folder Google Apps Script for the code to copy on your own Raw Heat Sensor Temperatre Data Google Sheet
+*Please see the folder Google Apps Script for the code to copy on your own Raw Heat Sensor Temperatre Data Google Sheet*
 
 The following is a picture of the second database: Biodiversity and Temperature Database
 
 <img width="1437" alt="Screenshot 2023-03-05 at 10 25 42 AM" src="https://user-images.githubusercontent.com/124530176/222984041-6b013e83-dca4-4ed5-87fe-b170e1c458f3.png">
 
 Cells A1:H1 are user inputed headers
+
 Cells A2:A runs on a script that adds the hour every hour
+
 Cells B2:H2 uses the =IMPORTRANGE formula by inputting the link and defined range.
+
   *It is worth noting that this formula only consistently works when using defined ranges as shown in the following picture*
 
 <img width="1439" alt="Screenshot 2023-03-05 at 10 29 32 AM" src="https://user-images.githubusercontent.com/124530176/222984342-81b18769-99d0-48a0-b915-a5345e94722d.png">
