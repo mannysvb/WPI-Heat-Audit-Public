@@ -49,10 +49,15 @@ Please note that this service key is sensitive information and should be kept pr
 
 # Converting Your Private Key
 
-*This one time process must be completed on a Windows computer, please see the following video for step by step instructions.*
+*This one time process must be completed on a Windows computer, please see the following video for step by step instructions. The description includes links to download the various programs.*
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/2WAjVtjPpWE/0.jpg)](http://www.youtube.com/watch?v=2WAjVtjPpWE "Key Tutorial")
 
 Make sure to drop the key.json file into the "Public Heat Audit Code" folder
+
+# Heat Audit Tutorial
+*This guide is specifically tailored to Banksia Gardens Community Services, but all steps can still be followed by other organizations.*
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/NXjj1oKcEbQ/0.jpg)](http://www.youtube.com/watch?v=NXjj1oKcEbQ "Heat Audit Tutorial")
 
 
