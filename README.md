@@ -68,9 +68,13 @@ The following is a picture of the first database: Raw Heat Sensor Temperature Da
 <img width="1440" alt="Screenshot 2023-03-05 at 10 23 18 AM" src="https://user-images.githubusercontent.com/124530176/222983928-506da472-32dc-480f-8454-1151f85dcaad.png">
 
 Cell A1 & A2 are user inputed headers
-Column D runs on script that formats Column A when any edits are made
+
+Column D runs on script that formats Column A when any edits are made in the sheet
+
 Cell G1 is a user inputed header
+
 Cell G2 filters Column D with the following command: =FILTER(A:B, REGEXMATCH(D:D,":00:|:01:|:02:|:03:|:04:"))
+
 Column J & K runs on a script that removes duplicates
 
 *Please see the folder Google Apps Script for the code to copy on your own Raw Heat Sensor Temperatre Data Google Sheet*
