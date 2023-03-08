@@ -4,7 +4,7 @@ A subgoal of this Interactive Qualifying Project (A partial fulfillment of a Bac
 
 *It is worth mentioning that if the sensors were outside of the WiFi range, the use of radio transmission is a viable alternative. Transmitters would send data from the sensors to one central “Gateway”, which consisted of a radio receiver and a WiFi-connected Pico W board, that would then upload the data to our database using WiFi available in the main building. This idea was abonded as we realized a WiFi approach would meet the needs of our client just as well.*
 
-For an extensive guide of creating and installing these devices, please refer to the instruction manual on our website: xxxxxxxxxxx. If you have any questions feel free to reach out at esvargas@wpi.edu or sefanning@wpi.edu.
+For an extensive guide of creating and installing these devices, please refer to the instruction manual on our [website](https://sites.google.com/banksiagardens.org.au/heatbiodiversityaudit/home). If you have any questions feel free to reach out at esvargas@wpi.edu or sefanning@wpi.edu.
 
 Developed by Worcester Polytechnic Institute Students: 
 [Stephen Fanning](https://www.linkedin.com/in/stephen-fanning/) &
